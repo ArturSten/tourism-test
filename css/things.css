@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+header {
+    text-align: center;
+    margin-top: 10px;    
+}
+header a {
+    font-size: 25px;
+    color: #3c3f61;
+    text-decoration: none;
+    margin: 30px;
+}
+header a:hover {
+    color: #6c71ac;
+}
+
+
+.name {
+    text-align: center;
+    margin-top: 50px;
+}
+.name h {
+    font-size: 80px;
+    color: #3c3f61;
+}
+.name p {
+    font-size: 30px;  
+    color: #565a8b;
+    margin-bottom: 50px;
+}
+
+.list {
+    margin-left: 25%;
+    margin-right: 4%;
+    margin-top: 80px;
+}
+.list h1 {
+    font-size: 30px;
+    color: #3c3f61;
+}
+.list a {
+    font-size: 20px;  
+    color: #565a8b;
+    text-decoration: underline;
+}
+
+.things {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 40px;
+}
+.things h1 {
+    text-align: center;    
+    font-size: 30px;
+    color: #3c3f61;
+}
+.things p, td {
+    font-size: 20px;  
+    color: #565a8b;
+}
+.things td {
+    vertical-align: top;
+    padding: 15px;
+}
